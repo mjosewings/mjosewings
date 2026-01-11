@@ -16,7 +16,7 @@ Black History Artificial Intelligence (BHAI) presents a conceptual AI platform d
 ### Mini-Pupper Maze Mission *(Coming Soon)*
 Designing and programming a robotic mini-pupper to navigate mazes autonomously, combining robotics, AI logic, and sensor integration.
 
---
+---
 
 ## Skills and Tools
 
@@ -28,15 +28,15 @@ Designing and programming a robotic mini-pupper to navigate mazes autonomously, 
 
 ### Databases & SQL
 - **MySQL** - CRUD operations and relational database design
-- **
+- ** MongoDB** - NoSQL database, document-based storage, scalable applications
 
 ---
 # Connect with Me
 - LinkedIn:[https://www.linkedin.com/in/maria-joseph-a6500a24b/]
 - Email: maj5833@psu.edu
-- Porfolio: Coming Soon!
+- Portfolio: Coming Soon!
 
---
+---
 <!--
 **mjosewings/mjosewings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
