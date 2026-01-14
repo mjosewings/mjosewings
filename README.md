@@ -28,7 +28,7 @@ Designing and programming a robotic mini-pupper to navigate mazes autonomously, 
 
 ### Databases & SQL
 - **MySQL** - CRUD operations and relational database design
-- ** MongoDB** - NoSQL database, document-based storage, scalable applications
+- **MongoDB** - NoSQL database, document-based storage, scalable applications
 
 ---
 # Connect with Me
