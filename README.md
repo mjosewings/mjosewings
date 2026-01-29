@@ -1,6 +1,6 @@
 ## Maria's Lab of Projects
 
-Hello there, I'm **Maria** -- a fourth-year Computer Science student specializing in Data Science, aspiring to become a bioinformatician focused on genomics, eager to tackle challenges in drug discovery using computational tools.
+Hello there, I'm **Maria** -- a fourth-year Computer Science student specializing in Data Science, preparing for graduate study in criminology for research-driven work.
 
 ---
 
@@ -15,6 +15,25 @@ Black History Artificial Intelligence (BHAI) presents a conceptual AI platform d
 
 ### Mini-Pupper Maze Mission *(Coming Soon)*
 Designing and programming a robotic mini-pupper to navigate mazes autonomously, combining robotics, AI logic, and sensor integration.
+
+### Weather Detection Directional Guidance
+Web application that analyzes weather-related risk levels and computes safe evacuation routes using graph algorithms.
+
+### Medical Assistant App
+
+### Bias Detection in Sports Media
+Analyzing and identifying bias in sports coverage through data analysis and NLP.
+
+### Neuroscan
+A virtual assistant that aims to support early detection of neurodegenerative diseases using a short assessment tool based on scientific research and real-world symptoms.
+
+### Stacks and Queues
+
+### Global Temperature Analyis
+Analyzing global temperature data using Python, involving real-world climate data, applying data structures, and visualiing trends using matplotlib.
+
+### Neurotraits-Analysis
+Analying fMRI-derived brain networks and correlate connectivity metrics with Big Five personality traits using graph theory.
 
 ---
 
