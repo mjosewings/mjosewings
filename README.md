@@ -51,7 +51,7 @@ Analying fMRI-derived brain networks and correlate connectivity metrics with Big
 
 ---
 # Connect with Me
-- LinkedIn:[https://www.linkedin.com/in/maria-joseph-a6500a24b/]
+- [LinkedIn](https://www.linkedin.com/in/maria-joseph-a6500a24b/)
 - Email: maj5833@psu.edu
 - Portfolio: Coming Soon!
 
