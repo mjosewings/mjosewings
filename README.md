@@ -11,7 +11,7 @@ Black History Artificial Intelligence (BHAI) presents a conceptual AI platform d
 
 ### Online Misinformation Machine Learning *(Coming Soon)*
 
-### Data Mining Exploration *(Coming Soon)*
+### [PSU Campus Crime Analysis](https://github.com/mjosewings/psu-university-crime-analysis) *(Coming Soon)*
 
 ### Mini-Pupper Maze Mission *(Coming Soon)*
 Designing and programming a robotic mini-pupper to navigate mazes autonomously, combining robotics, AI logic, and sensor integration.
