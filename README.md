@@ -29,7 +29,7 @@ A virtual assistant that aims to support early detection of neurodegenerative di
 
 ### Stacks and Queues
 
-### [Global Temperature Analyis](https://github.com/mjosewings/Global-Temperature-Analysis)
+### [Global Temperature Analysis](https://github.com/mjosewings/Global-Temperature-Analysis)
 Analyzing global temperature data using Python, involving real-world climate data, applying data structures, and visualiing trends using matplotlib.
 
 ### Neurotraits-Analysis
