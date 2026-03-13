@@ -36,6 +36,9 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 - **[Neuroscan](https://github.com/mjosewings/neuroscan)** _(In Development)_  
   A virtual assistant concept aimed at **early detection of neurodegenerative diseases**, using short assessments informed by **scientific research** and real-world symptom patterns.
 
+- **[Mentisoul](https://github.com/mjosewings/Mentisoul)** _(In Development)_  
+  A mental health–oriented AI assistant concept focused on **supporting emotional well-being** with research-informed assessments and guidance.
+
 - **Neurotraits-Analysis** _(In Development)_  
   Analyzing **fMRI-derived brain networks** and relating connectivity metrics to **Big Five personality traits** using **graph theory**.
 
