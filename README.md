@@ -65,11 +65,11 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 - **[RedVision](https://github.com/mjosewings/RedVision)** _(In Development)_  
   AI-powered **forensic software for bloodstain analysis and crime scene reconstruction**, applying computer vision and analytics to crime scene imagery.
 
-- **Mini-Pupper Maze Mission** _(In Progress)_  
+- **Mini-Pupper Maze Mission** _(In Progress, Collaborative)_  
   Programming a **robotic mini-pupper** to autonomously navigate mazes using **AI logic, pathfinding, and sensor integration**.
 
-- **Weather Detection Directional Guidance**  
-  A web application that analyzes **weather-related risk levels** and computes **safe evacuation routes** using **graph algorithms**.
+- **[Weather Detection & Directional Guidance](https://github.com/IshaqHalimi/Weather_Detection_Directional_Guidance)** _(In Development, Collaborative)_  
+  An interactive system that models campus as a **weighted graph**, simulates weather-related hazards, and computes **safe evacuation routes** using Dijkstra’s algorithm.
 
 - **Stacks and Queues** _(In Progress)_  
   Data-structures-focused work applying **stacks and queues** to real-world inspired computational problems.
