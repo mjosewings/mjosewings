@@ -74,6 +74,9 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 - **Stacks and Queues** _(In Progress)_  
   Data-structures-focused work applying **stacks and queues** to real-world inspired computational problems.
 
+- **[Algorithm Visualizer](https://github.com/mjosewings/algorithm-visualizer)** _(In Development)_  
+  Interactive tool for **comparing sorting and searching algorithm performance** through visual feedback and side-by-side comparisons.
+
 - **[CyberStorm](https://github.com/mjosewings/CyberStorm)**  
   JavaScript-based project showcasing **interactive logic and front-end problem solving**.
 
