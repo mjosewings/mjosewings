@@ -39,8 +39,8 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 - **Neurotraits-Analysis** _(In Development)_  
   Analyzing **fMRI-derived brain networks** and relating connectivity metrics to **Big Five personality traits** using **graph theory**.
 
-- **Medical Assistant App** _(In Development)_  
-  Conceptual application to support **medical decision-making and patient workflows** through data-driven insights.
+- **[Medical Assistant App](https://github.com/SXG5865/MedicalAssistantApp)** _(In Development)_  
+  Conceptual application to support **medical decision-making and patient workflows** through data-driven insights, based on an existing collaborative repository.
 
 ---
 
