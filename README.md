@@ -59,6 +59,9 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 
 ### 🤖 Systems, Algorithms & Robotics
 
+- **[RedVision](https://github.com/mjosewings/RedVision)** _(In Development)_  
+  AI-powered **forensic software for bloodstain analysis and crime scene reconstruction**, applying computer vision and analytics to crime scene imagery.
+
 - **Mini-Pupper Maze Mission** _(In Progress)_  
   Programming a **robotic mini-pupper** to autonomously navigate mazes using **AI logic, pathfinding, and sensor integration**.
 
