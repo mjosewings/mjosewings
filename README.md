@@ -33,7 +33,7 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 
 ### 🧠 AI, Neuroscience & Health
 
-- **Neuroscan** _(In Development)_  
+- **[Neuroscan](https://github.com/mjosewings/neuroscan)** _(In Development)_  
   A virtual assistant concept aimed at **early detection of neurodegenerative diseases**, using short assessments informed by **scientific research** and real-world symptom patterns.
 
 - **Neurotraits-Analysis** _(In Development)_  
