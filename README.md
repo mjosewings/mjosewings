@@ -71,8 +71,8 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 - **[Weather Detection & Directional Guidance](https://github.com/IshaqHalimi/Weather_Detection_Directional_Guidance)** _(In Development, Collaborative)_  
   An interactive system that models campus as a **weighted graph**, simulates weather-related hazards, and computes **safe evacuation routes** using Dijkstra’s algorithm.
 
-- **Stacks and Queues** _(In Progress)_  
-  Data-structures-focused work applying **stacks and queues** to real-world inspired computational problems.
+- **[Stacks and Queues](https://github.com/mjosewings/StackQueueDS)** _(In Progress)_  
+  Implementing custom **Stack, Queue, and Deque** classes and applying them to simulations like Tower of Hanoi, palindrome detection, and real-world queuing scenarios.
 
 - **[Algorithm Visualizer](https://github.com/mjosewings/algorithm-visualizer)** _(In Development)_  
   Interactive tool for **comparing sorting and searching algorithm performance** through visual feedback and side-by-side comparisons.
