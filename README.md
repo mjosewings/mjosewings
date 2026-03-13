@@ -77,6 +77,9 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 - **[Algorithm Visualizer](https://github.com/mjosewings/algorithm-visualizer)** _(In Development)_  
   Interactive tool for **comparing sorting and searching algorithm performance** through visual feedback and side-by-side comparisons.
 
+- **[Log Analysis & Alerting System](https://github.com/ompatel215/Log-Analysis-Alerting-System)** _(In Development, Collaborative)_  
+  Python-based **log analysis and alerting system**, focusing on automated log parsing, anomaly detection, and configurable alert rules.
+
 - **[CyberStorm](https://github.com/mjosewings/CyberStorm)**  
   JavaScript-based project showcasing **interactive logic and front-end problem solving**.
 
