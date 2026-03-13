@@ -75,7 +75,7 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 
 ## Long-Term Vision: Black History Artificial Intelligence (BHAI)
 
-**Black History Artificial Intelligence (BHAI)** (target release: **2030**) is a conceptual AI platform designed to:
+**[Black History Artificial Intelligence (BHAI)](https://github.com/mjosewings/BHAI_App)** (target release: **2030**) is a conceptual AI platform designed to:
 
 - Highlight **Black history, culture, and linguistic heritage**  
 - Provide **equity-centered, educational experiences** powered by AI  
