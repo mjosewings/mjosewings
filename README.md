@@ -1,6 +1,6 @@
 ## Hi, I'm Maria 👋
 
-I'm a **Computer Science student specializing in Data Science** with a strong interest in applying AI and analytics to **criminology, public safety, and social impact**. I enjoy building research-driven projects that sit at the intersection of **data, justice, and human behavior**.
+I am a Computer Science graduate specializing in Data Science with a strong interest in applying AI, analytics, and computational methods to criminology and social impact research. Currently pursuing graduate studies in Criminal Justice with a focus on criminology, I enjoy developing interdisciplinary projects that connect data, justice, and human behavior.
 
 ---
 
@@ -99,11 +99,12 @@ BHAI reflects my broader goal: **using AI not just to predict, but to educate, e
 
 ## Technical Skills
 
-- **Languages**: Python, R, JavaScript, HTML, CSS  
+- **Languages**: Python, R, JavaScript, HTML, CSS, C, C++  
 - **Data & ML**: Pandas, NumPy, scikit-learn, data visualization (matplotlib), exploratory data analysis  
-- **Databases**: MySQL, MongoDB  
+- **Databases**: MySQL, MongoDB, Neo4j  
 - **Domains**: Crime analysis, bias detection, climate data, neuroscience-inspired analytics  
 - **Practices**: Reproducible research, structured experimentation, clear documentation
+- **NLP**: NLTK, spaCy, Transformers (BERT/RoBERTa)
 
 ---
 
