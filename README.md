@@ -65,7 +65,7 @@ I'm a **Computer Science student specializing in Data Science** with a strong in
 - **[RedVision](https://github.com/mjosewings/RedVision)** _(In Development)_  
   AI-powered **forensic software for bloodstain analysis and crime scene reconstruction**, applying computer vision and analytics to crime scene imagery.
 
-- **[Mini-Pupper Swarm Exploration with Secure AI-RAG Diagnostics](https://github.com/joeoakes/abcapsp26TuThT1)** _(In Progress, Collaborative)_  
+- **[Mini-Pupper Swarm Exploration with Secure AI-RAG Diagnostics](https://github.com/joeoakes/abcapsp26TuThT1)** _(Collaborative)_  
   Multi-robot **swarm exploration** project using Mini-Pupper robots, combining navigation, coordination, and **RAG-based diagnostics** to safely interpret and explain system behavior.
 
 - **[Weather Detection & Directional Guidance](https://github.com/IshaqHalimi/Weather_Detection_Directional_Guidance)** _(In Development, Collaborative)_  
@@ -119,8 +119,8 @@ BHAI reflects my broader goal: **using AI not just to predict, but to educate, e
 ## Let’s Connect
 
 - **GitHub**: [@mjosewings](https://github.com/mjosewings)  
-- **LinkedIn**: [maria-joseph-a6500a24b](https://www.linkedin.com/in/maria-joseph-a6500a24b/)  
-- **Email**: `maj5833@psu.edu`  
+- **LinkedIn**: [maria-joseph-a6500a24b](www.linkedin.com/in/maria-a-joseph)  
+- **Email**: `mariajoseph.datasci@outlook.com`  
 - **Portfolio**: Coming soon – focused on **AI, criminology, and data science** projects.
 
 If you're interested in **research collaborations, data-driven justice projects, or AI for social impact**, I’d be happy to connect.
