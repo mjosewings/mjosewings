@@ -120,7 +120,7 @@ BHAI reflects my broader goal: **using AI not just to predict, but to educate, e
 ## Let’s Connect
 
 - **GitHub**: [@mjosewings](https://github.com/mjosewings)  
-- **LinkedIn**: [maria-joseph-a6500a24b](www.linkedin.com/in/maria-a-joseph)  
+- **LinkedIn**: [www.linkedin.com/in/maria-a-joseph](www.linkedin.com/in/maria-a-joseph)  
 - **Email**: `mariajoseph.datasci@outlook.com`  
 - **Portfolio**: Coming soon – focused on **AI, criminology, and data science** projects.
 
